@@ -4,13 +4,12 @@
 Hi, there! I'm Yumeng Zhnag, a Data Science student and an aspiring Data Scientist. I'm from Xinjiang and currently living in Shanghai. 
   
 
-- 🏫 I’m currently study at [NYUSH](https://shanghai.nyu.edu)  
-
-
+- 🏫 I’m currently study at [NYUSH](https://shanghai.nyu.edu)
 - 🧘🏻‍♀️ I'm a fan of yoga and gym exercises
- 
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 📫 Reach out to me at: yumengzhang75[@]gmail.com
+- 💬 Ask me about finding internship, dogs, foods, traveling, taking photos or OOTD
+- 😄 Pronouns: She/Her/Hers
+- 🦮 Fun fact: I don't love my dog but just live with her
 
 
 ### Connect with me  
