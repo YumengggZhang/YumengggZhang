@@ -7,7 +7,7 @@ Hi, there! I'm Yumeng Zhnag, a Data Science student and an aspiring Data Scienti
 - 🏫 I’m currently study at [NYUSH](https://shanghai.nyu.edu)
 - 🧘🏻‍♀️ I'm a fan of yoga and gym exercises
 - 📫 Reach out to me at: yumengzhang75[@]gmail.com
-- 💬 Ask me about finding internship, dogs, foods, traveling, taking photos or OOTD
+- 💬 Ask me about finding internship, dogs, foods, traveling, taking photos or ootd
 - 😄 Pronouns: She/Her/Hers
 - 🦮 Fun fact: I don't love my dog but just live with her
 
