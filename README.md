@@ -9,7 +9,7 @@ Hi, there! I'm Yumeng Zhnag, a Data Science student and an aspiring Data Scienti
 - 📫 Reach out to me at: yumengzhang75[@]gmail.com
 - 💬 Ask me about finding internship, dogs, foods, traveling, taking photos or ootd
 - 😄 Pronouns: She/Her/Hers
-- 🦮 Fun fact: I don't love my dog but just live with her
+- 🦮 Fun fact: I don't like my dog but just live with her
 
 
 ### Connect with me  
