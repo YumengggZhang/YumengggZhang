@@ -1,7 +1,7 @@
 
 # Yumeng's Github 👩🏻‍🦱
 
-Hi, there! I'm Yumeng Zhnag, a Data Science student and an aspiring Data Scientist. I'm from Xinjiang and currently living in Shanghai. 
+Hi, there! I'm Yumeng Zhnag, an aspiring Data Scientist. I'm from Xinjiang and currently living in Irvine, CA. 
   
 
 - 🏫 I'm now a Master's student at [UC Irvine](https://uci.edu/) 
