@@ -1,7 +1,7 @@
 
 # Yumeng's Github 👩🏻‍🦱
 
-Hi, there! I'm Yumeng Zhnag, apply for 2025 phd and now working at [Dr. Molloi's lab](https://engineering.uci.edu/users/sabee-molloi) on AI and medical imaging. I'm from Xinjiang, China and currently living in Irvine, CA. 
+Hi, there! I'm Yumeng Zhang, applying for 2025 Phd and now working at [Dr. Molloi's lab](https://engineering.uci.edu/users/sabee-molloi) on AI and medical imaging. I'm from Xinjiang, China and currently living in Irvine, CA. 
   
 - 🏫 I'm now a Master's student at [UC Irvine](https://uci.edu/) 
 - 🎓 I finished my undergrade study at [NYUSH](https://shanghai.nyu.edu)
