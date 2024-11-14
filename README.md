@@ -3,7 +3,7 @@
 
 Hi, there! I'm Yumeng Zhnag, an aspiring Data Scientist now working at [Dr. Molloi's lab](https://engineering.uci.edu/users/sabee-molloi) on AI and medical imaging. I'm from Xinjiang, China and currently living in Irvine, CA. 
   
-- 🏫 I'm now a work as a research assistant at [Dr.Molloi's Lab](https://engineering.uci.edu/users/sabee-molloi).
+- I'm now a work as a research assistant at [Dr.Molloi's Lab](https://engineering.uci.edu/users/sabee-molloi).
 - 🏫 I'm now a Master's student at [UC Irvine](https://uci.edu/) 
 - 🎓 I finished my undergrade study at [NYUSH](https://shanghai.nyu.edu)
 - 🧘🏻‍♀️ I'm a fan of yoga and gym exercises
