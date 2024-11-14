@@ -7,7 +7,6 @@ Hi, there! I'm Yumeng Zhang, applying for 2025 Phd and now working at [Dr. Mollo
 - 🎓 I finished my undergrade study at [NYUSH](https://shanghai.nyu.edu)
 - 🧘🏻‍♀️ I'm a fan of yoga and gym exercises
 - 📫 Reach out to me at: [yumengzhang75@gmail.com](yumengzhang75@gmail.com)
-- 💬 Ask me about finding internship, dogs, foods, traveling, taking photos or ootd
 - 😄 Pronouns: She/Her/Hers
 
 
